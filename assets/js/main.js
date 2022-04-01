@@ -1,3 +1,6 @@
+
+console.log('ALPHABET'.toLowerCase()); // 'alphabet'
+
 (function() {
   "use strict";
 
